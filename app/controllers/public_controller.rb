@@ -17,6 +17,10 @@ class PublicController < ApplicationController
     end
   end
 
+  def login_page
+    redirect_to("http://localhost:3000/access/login")
+  end
+
   private
 
   def setup_navigation

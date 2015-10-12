@@ -28,8 +28,8 @@ a.action:hover { background: #B6D491; }
 .notice { height: 1.25em; padding: 0.5em; text-align: center;
   background: #B6D491; color: #4C2516; }
 .back-link { font-size: 0.8em; margin-bottom: 1em; }
+.login-backlink {font-size: 2.5em;  margin-bottom: 1em; color: #F2DC87; text-decoration: none; }
 .form-buttons { text-align: center; margin: 1em 0; }
-
 .index table { clear: both; width: 100%; }
 .index table tr td { border: 1px solid #666666; }
 .show table { clear: both; margin: 0 200px; width: 300px; }
