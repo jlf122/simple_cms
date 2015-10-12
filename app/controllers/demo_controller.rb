@@ -1,6 +1,7 @@
 class DemoController < ApplicationController
   
 layout 'application'
+   #File used to test demo
 
   def index
   	#render(:template => 'demo/hello')
